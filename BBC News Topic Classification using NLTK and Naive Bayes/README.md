@@ -19,9 +19,3 @@ The [BBC News Dataset](http://mlg.ucd.ie/datasets/bbc.html) from University Coll
 - Removed 266 duplicate articles
 - Standardized text (lowercase, special chars removal)
 - Train-test split (80/20 stratified)
-
-##  Results
-| Metric        | Score |
-|---------------|-------|
-| Accuracy      | 97%   |
-| F1-Score      | 0.97  |
