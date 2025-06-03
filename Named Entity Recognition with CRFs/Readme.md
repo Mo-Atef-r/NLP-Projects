@@ -11,7 +11,6 @@ This project implements a Named Entity Recognition (NER) system using Conditiona
   - Chunk tags
   - Contextual features (previous/next words and tags)
 - Detailed error analysis
-- Handling of dataset annotation inconsistencies
 
 ## Dataset
 
